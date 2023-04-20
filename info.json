@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog_repo.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "description": "A collection of cogs created by a certain 'Capitaine'. Including games and moderations tools.",
+    "short": "Set of multiple cogs with different functionalities, from games to moderation.",
+    "install_msg": "Thanks for installing my repository. I'm Capt. Pred.\nI hope you'll enjoy my cogs, I got a support server here, in case you need attention: discord.gg/zg6ydua"
+}
