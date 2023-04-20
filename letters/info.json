@@ -1,0 +1,19 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog store data about users persistently for saving datas. Red may store your discord ID with your data you set and receive.",
+    "description": "Send a letter to someone you want to talk to.",
+    "short": "Send letters to peoples.",
+    "install_msg": "Thank for installing Letters.\nI'll be super honest: use it for spam or any others purpose that is it not intended for, and if I notice it, you can believe that I'll do everything to block your bot from using this cog.\nThis is my right to do so and I take the liberty to do it without prior notice.",
+    "tags": [
+        "fun",
+        "message",
+        "violet",
+        "evergarden"
+    ],
+    "requirements": [
+        "tabulate"
+    ]
+}

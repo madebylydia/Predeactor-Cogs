@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-04-17 01:02+0200\n"
+"PO-Revision-Date: 2021-04-17 11:36+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.3\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: akinatorcog.py:61
+msgid ""
+"\n"
+"    The genius, Akinator, will guess your mind and find who you are thinking "
+"of, go challenge him!\n"
+"    "
+msgstr ""
+"\n"
+"    Гений Акинатор угадает ваши мысли и найдёт того, о ком вы думаете, "
+"бросьте ему вызов!\n"
+"    "
+
+#: akinatorcog.py:71
+msgid ""
+"\n"
+"        This will put some text at the top of the main help. ([p]help "
+"Akinator)\n"
+"        Thank to Sinbad.\n"
+"        "
+msgstr ""
+
+#: akinatorcog.py:85
+msgid ""
+"\n"
+"        Answer Akinator's question and get challenged!\n"
+"        "
+msgstr ""
+"\n"
+"        Бросьте вызов, и ответьте на вопросы Акинатора!\n"
+"        "
+
+#: akinatorcog.py:92
+msgid ""
+"\n"
+"        Start a session with Akinator.\n"
+"        "
+msgstr ""
+"\n"
+"        Начать сессию с Акинатором.\n"
+"        "
+
+#: akinatorcog.py:108
+msgid "Cancel your game with Akinator."
+msgstr "Отменить вашу игру с Акинатором."
+
+#: akinatorcog.py:110
+msgid "You're not running any game!"
+msgstr "У вас нет активной игры!"
+
+#: akinatorcog.py:165
+msgid "Question {count}: {question}"
+msgstr "Вопрос {count}: {question}"
+
+#: akinatorcog.py:241
+msgid "Hmm... I think I've guessed..."
+msgstr "Хмм… Я думаю я угадал..."
+
+#: akinatorcog.py:242
+msgid "Is it {name}? Did I win? The description is {desc}."
+msgstr "Это {name}? Я выиграл? Описание: {desc}."
+
+#: akinatorcog.py:251
+msgid ""
+"Game running for {name}. I asked over {num} questions! (Cog version {ver})"
+msgstr ""
+"Игра запущена для {name}. Я спросил {num} вопросов! (Версия модуля {ver})"
+
+#: akinatorcog.py:261
+msgid ""
+"Do you wish to set a specific language? If so, please specify it now (Find "
+"all available language at <https://github.com/NinjaSnail1080/akinator."
+"py#functions>) else just say 'no'."
+msgstr ""
+"Вы хотите указать язык? Если да - пожалуйста укажите его сейчас (Список всех "
+"доступных языков можно найти здесь: <https://github.com/NinjaSnail1080/"
+"akinator.py#functions>), иначе просто скажите 'no'."
+
+#: akinatorcog.py:274
+msgid "You didn't answered in time... 😔"
+msgstr "Вы не ответили вовремя... 😔"
+
+#: checks.py:11
+msgid "We don't like spam, at Red, section #testing."
+msgstr ""

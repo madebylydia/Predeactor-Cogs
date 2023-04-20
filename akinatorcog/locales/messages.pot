@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-17 16:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.3\n"
+
+#: akinatorcog.py:61
+#, docstring
+msgid ""
+"\n"
+"    The genius, Akinator, will guess your mind and find who you are thinking of, go challenge him!\n"
+"    "
+msgstr ""
+
+#: akinatorcog.py:85
+#, docstring
+msgid ""
+"\n"
+"        Answer Akinator's question and get challenged!\n"
+"        "
+msgstr ""
+
+#: akinatorcog.py:92
+#, docstring
+msgid ""
+"\n"
+"        Start a session with Akinator.\n"
+"        "
+msgstr ""
+
+#: akinatorcog.py:108
+#, docstring
+msgid "Cancel your game with Akinator."
+msgstr ""
+
+#: akinatorcog.py:110
+msgid "You're not running any game!"
+msgstr ""
+
+#: akinatorcog.py:165
+msgid "Question {count}: {question}"
+msgstr ""
+
+#: akinatorcog.py:177
+msgid "Oops! Can't go back! You need to answer my question!"
+msgstr ""
+
+#: akinatorcog.py:247
+msgid "Hmm... I think I've guessed..."
+msgstr ""
+
+#: akinatorcog.py:248
+msgid "Is it {name}? Did I win? The description is {desc}."
+msgstr ""
+
+#: akinatorcog.py:257
+msgid ""
+"Game running for {name}. I asked over {num} questions! (Cog version {ver})"
+msgstr ""
+
+#: akinatorcog.py:267
+msgid ""
+"Do you wish to set a specific language? If so, please specify it now (Find "
+"all available language at "
+"<https://github.com/NinjaSnail1080/akinator.py#functions>) else just say "
+"'no'."
+msgstr ""
+
+#: akinatorcog.py:280
+msgid "You didn't answered in time... 😔"
+msgstr ""

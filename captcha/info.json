@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog does not save data about users persistently.",
+    "description": "Captcha defensive system. Another security layout for your server.",
+    "short": "Captcha defensive system.",
+    "install_msg": "Thanks for installing my cog, Captcha. You should join my support server if you haven't already, I got good cookies, Hatsune Miku pics and most importantly, ~~premium access~~ support. discord.gg/zg6ydua",
+    "min_bot_version": "3.4.0",
+    "tags": [
+        "security",
+        "protection",
+        "captcha",
+        "defender"
+    ],
+    "requirements": [
+        "discapty==0.4"
+    ]
+}

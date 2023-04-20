@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor",
+        "A bit of everyone who helped"
+    ],
+    "end_user_data_statement": "This cog does not save data about users persistently.",
+    "short": "Akinator will guess a real or fictitious character by answering questions.",
+    "description": "Akinator, the genius, will read in your mind and guess who you are thinking of! Answer Akinator's questions and get impressed by his talent!",
+    "install_msg": "Thank for installing Akinator.\nThis cog is now outdated, hope you don't mind this decision of me but I really wanted to since it's been a problematic cog to me.\nCheck out Phen's Aki cog instead. Adding the fact that 2 approved cog creators have the same cog is a bit... useless.",
+    "requirements": [
+        "akinator.py[async]"
+    ],
+    "hidden": true
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog does not save data about users persistently.",
+    "description": "Know how many time a command has been used.",
+    "short": "A simple commands counter statistics",
+    "install_msg": "Thank for installing my CommandsCounter cog.",
+    "tags": [
+        "info",
+        "count",
+        "tools"
+    ]
+}

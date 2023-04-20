@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor",
+        "The person who gave me the eval originally."
+    ],
+    "description": "Get source of commands.",
+    "short": "Get source of commands.",
+    "hidden": true,
+    "install_msg": "Hey, thank for installing the CodeSource cog. I do not own any copyright on the code since I just used what Red's community gave me, if you are, feel free to contact me so I can add your name.",
+    "tags": [
+        "dev",
+        "tools",
+        "code",
+        "source"
+    ]
+}

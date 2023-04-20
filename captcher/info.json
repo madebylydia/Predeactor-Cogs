@@ -1,0 +1,22 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog does not save data about users persistently.",
+    "description": "Let users complete a captcha before entering the server.",
+    "short": "Captcha cog.",
+    "install_msg": "Hi.\nThis cog is outdated.\nPlease use my other cog \"Captcha\" for an up-to-date cog with the same functionallity.\nIf you still load the cog, you'll receive a private message everytime you reload the cog or restart your bot. (Meaning stop using this cog, really)",
+    "requirements": [
+        "captcha"
+    ],
+    "min_bot_version": "3.4.0",
+    "tags": [
+        "security",
+        "protection",
+        "captcha",
+        "new",
+        "defender"
+    ],
+    "hidden": true
+}

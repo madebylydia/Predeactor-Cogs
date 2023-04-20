@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog does not save data about users persistently.",
+    "description": "A free cog for talking to Cleverbot!",
+    "short": "Talk to Cleverbot in Discord.",
+    "install_msg": "Hello! Thank for adding my CleverBot cog! To start using this cog, use `[p]travitiaapikey`.",
+    "requirements": [
+        "async_cleverbot"
+    ],
+    "min_bot_version": "3.3.8",
+    "tags": [
+        "cleverbot",
+        "talk",
+        "fun",
+        "ai"
+    ]
+}

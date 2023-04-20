@@ -1,0 +1,9 @@
+{
+    "author": [
+        "Predeactor"
+    ],
+    "description": "Learn Python on Discord.",
+    "short": "Learn Python on Discord.",
+    "install_msg": "This cog has reached EoL (End of Life). But feel free to open a pull request to the repository.",
+    "hidden": true
+}

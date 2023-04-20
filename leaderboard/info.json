@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "end_user_data_statement": "This cog store data about users persistently for saving datas. Red may store your discord ID with your settings you set and how many points you got.",
+    "description": "A global reputation system using points.",
+    "short": "Global reputation points.",
+    "install_msg": "Thank for installing my LeaderBoard cog!",
+    "tags": [
+        "fun"
+    ]
+}

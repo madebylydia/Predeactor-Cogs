@@ -1,0 +1,18 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "description": "Send your image and shorten your URL with your own subdomain.",
+    "short": "Shorten your link and send your image through a link.",
+    "install_msg": "Hello, this cog requi,re an URL from sxcu.net, to add one, go to https://sxcu.net and create a subdomain. Take the URL and use `[p]set api sxcu url,<Your URL>`.",
+    "tags": [
+        "utility",
+        "upload",
+        "tools",
+        "dev",
+        "shorten",
+        "link",
+        "image"
+    ]
+}

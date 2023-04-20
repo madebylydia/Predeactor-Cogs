@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "author": [
+        "Predeactor"
+    ],
+    "description": "Obtain one of the most beautiful image representing Hatsune Miku!",
+    "short": "Obtain a random image of Miku.",
+    "install_msg": "Hey, thank for using my API! If you encouter **any problems**, even from the API, please contact me, `Capt. Pred#0495`, I'll do my best to fix it.",
+    "tags": [
+        "miku",
+        "hatsune",
+        "image",
+        "images",
+        "api"
+    ]
+}
